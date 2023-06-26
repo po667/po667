@@ -9,6 +9,13 @@
   </a>
 </p>
 
+<h3 align="left">J'apprends actuellement:</h3>
+<p align="left">
+  <a href="https://react.dev/" target="_blank" rel="noreferrer">
+    <img src="https://i.imgur.com/J3smgSq.png" alt="react" width="40" height="40"/>
+  </a>
+</p>
+
 <h3 align="left">Languages et Outils:</h3>
 <p align="left">
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
