@@ -14,6 +14,9 @@
   <a href="https://react.dev/" target="_blank" rel="noreferrer">
     <img src="https://i.imgur.com/J3smgSq.png" alt="react" width="40" height="40"/>
   </a>
+  <a href="https://symfony.com/" target="_blank" rel="noreferrer">
+    <img src="https://imgur.com/a/JzQYAwY" alt="symfony" width="40" height="40"/>
+  </a>
 </p>
 
 <h3 align="left">Languages et Outils:</h3>
