@@ -15,7 +15,7 @@
     <img src="https://i.imgur.com/J3smgSq.png" alt="react" width="40" height="40"/>
   </a>
   <a href="https://symfony.com/" target="_blank" rel="noreferrer">
-    <img src="https://i.imgur.com/sqv1uYk.jpeg" alt="symfony" width="40" height="40"/>
+    <img src="https://i.imgur.com/jyUXCUU.png" alt="symfony" width="40" height="40"/>
   </a>
 </p>
 
